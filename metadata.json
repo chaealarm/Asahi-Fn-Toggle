@@ -1,5 +1,5 @@
 {
-  "name": "Asah-Fn-Toggle",
+  "name": "Asahi-Fn-Toggle",
   "description": "A simple GNOME extension to instantly toggle the Apple Keyboard Fn/F1 mode on Asahi Linux from the top panel.",
   "uuid": "asahi-fn-toggle@chaealarm",
   "shell-version": ["45", "46", "47", "48"],
