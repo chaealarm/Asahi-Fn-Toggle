@@ -15,12 +15,12 @@ echo "$USER ALL=(ALL) NOPASSWD: /usr/bin/tee /sys/module/hid_apple/parameters/fn
 ### Manual Installation
 1. Clone this repository into your GNOME extensions directory:
    \`\`\`bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/Asahi-Fn-Toggle.git ~/.local/share/gnome-shell/extensions/asahi-fn-toggle@YOUR_GITHUB_USERNAME
+   git clone https://github.com/chaealarm/Asahi-Fn-Toggle.git ~/.local/share/gnome-shell/extensions/asahi-fn-toggle@chaealarm
    \`\`\`
 2. Log out and log back in (or restart GNOME Shell).
 3. Enable the extension via the Extensions app or terminal:
    \`\`\`bash
-   gnome-extensions enable asahi-fn-toggle@YOUR_GITHUB_USERNAME
+   gnome-extensions enable asahi-fn-toggle@chaealarm
    \`\`\`
 
 ## 💡 Usage
